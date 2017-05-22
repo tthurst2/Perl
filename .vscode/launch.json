@@ -10,7 +10,7 @@
             "root": "${workspaceRoot}/",
             "program": "${workspaceRoot}/${relativeFile}",
             "inc": [],
-            "args": [],
+            "args": [5,10],
             "stopOnEntry": true
         }
     ]
