@@ -1,6 +1,7 @@
 {
     "version": "0.0.5",
     "configurations": [
+        
         {
             "type": "perl",
             "request": "launch",
@@ -10,7 +11,7 @@
             "root": "${workspaceRoot}/",
             "program": "${workspaceRoot}/${relativeFile}",
             "inc": [],
-            "args": [5,10],
+            "args": [5,6],
             "stopOnEntry": true
         }
     ]
