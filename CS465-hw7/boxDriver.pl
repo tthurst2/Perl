@@ -8,7 +8,7 @@ sub pointCheck {
 	print "($x, $y) is in (@bounds)\n";
     }
     else {
-	print "($x, $y) is not in (@bounds)\n";
+	print "($x, $y) is NOT in (@bounds)\n";
     }
 }
 
